@@ -1,4 +1,4 @@
-TOD APP USING IONIC
+TODO APP USING IONIC
 =====================
 
 A starting project for Ionic that optionally supports using custom SCSS.
